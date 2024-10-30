@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bala-portfolio/static/css/main.44c2d32c.css",
+    "main.js": "/bala-portfolio/static/js/main.5d7f2732.js",
+    "static/media/blocks.jpg": "/bala-portfolio/static/media/blocks.c71b0fc65539e324aa9f.jpg",
+    "static/media/tech.jpg": "/bala-portfolio/static/media/tech.f1c4241e624945af6b74.jpg",
+    "static/media/zoom.jpg": "/bala-portfolio/static/media/zoom.4a3ca6373cd1fe9a0b4d.jpg",
+    "static/media/work2.jpg": "/bala-portfolio/static/media/work2.e97daf61b6de8eef0f9a.jpg",
+    "static/media/instagram.svg": "/bala-portfolio/static/media/instagram.318e6df2752736d3c45c33aed816ef9f.svg",
+    "static/media/github.svg": "/bala-portfolio/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/devdotto.svg": "/bala-portfolio/static/media/devdotto.0ff9f0d7b8ce0b5aa62e2f733495d83b.svg",
+    "index.html": "/bala-portfolio/index.html",
+    "static/media/linkedin.svg": "/bala-portfolio/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "static/media/twitter.svg": "/bala-portfolio/static/media/twitter.9fc479687bd8af1d4abc8a1fce7dc568.svg",
+    "static/media/youtube.svg": "/bala-portfolio/static/media/youtube.f5a3fbc126791c9789e222f96fca742f.svg",
+    "static/media/medium.svg": "/bala-portfolio/static/media/medium.a73cd7178cc078152fd9eb34bd74f5ac.svg",
+    "static/media/down-arrow.svg": "/bala-portfolio/static/media/down-arrow.a3b3b27e23c79a0c013f75adc236313f.svg",
+    "static/media/envelope.svg": "/bala-portfolio/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.44c2d32c.css.map": "/bala-portfolio/static/css/main.44c2d32c.css.map",
+    "main.5d7f2732.js.map": "/bala-portfolio/static/js/main.5d7f2732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c2d32c.css",
+    "static/js/main.5d7f2732.js"
+  ]
+}
